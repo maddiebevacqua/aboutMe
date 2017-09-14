@@ -3,7 +3,7 @@ This is a page about me.
 ![GitHub Logo](https://scontent-yyz1-1.xx.fbcdn.net/v/t1.0-9/14469665_687076871441295_6980466168130548212_n.jpg?oh=5739c701f9143bb513b41c8f3bf66af2&oe=5A5BFC29)
 ## Maddie Bevacqua
 I have been vegetarian for 13 years and **vegan** for _3 years_
-I basically eat the same foods every day
+!I basically eat the same foods every day
 * spinach and banana smoothie
 * avocado toast
 * beans
@@ -15,5 +15,4 @@ My favourite bands are...
 3. The Killers
 4. Cage the Elephant
 5. Joy Division
-My boyfriend made me participate in his music video last year https://www.youtube.com/watch?v=LUNYstlEu4Y
-I do not know what an inline code is `<addv>`
+!My boyfriend made me participate in his music video last year https://www.youtube.com/watch?v=LUNYstlEu4Y
