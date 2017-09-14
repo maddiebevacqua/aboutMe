@@ -17,5 +17,5 @@ This is a page about me.
 3. The Killers
 4. Cage the Elephant
 5. Joy Division
-##### I broke my teeth off a curb after tripping while racing to see Santa at Somerset. I said
+##### I smashed my teeth off a curb after tripping while racing to see Santa at Somerset. I said
 > All I want for Christmas is my two front teeth!
